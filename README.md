@@ -1,4 +1,4 @@
-# 🤖 Recomendação de filmes Netflix
+# 🤖 Netflix Movie Recommendation
 
 
 🎓 College: [Faculdade Metodista Granbery](http://granbery.edu.br/)
