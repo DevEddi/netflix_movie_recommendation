@@ -1,7 +1,7 @@
 # 🤖 Netflix Movie Recommendation
 
 
-🎓 College: [Faculdade Metodista Granbery](http://granbery.edu.br/)
+🎓 College: [College Methodist Granbery](http://granbery.edu.br/)
 
 👨‍🏫 Teacher: [Ricardo Silva Campos- Google Academico](https://scholar.google.com.br/citations?user=fl9FTo4AAAAJ&hl=pt-BR)
 
