@@ -1,4 +1,5 @@
-# 🤖 Netflix Movie Recommendation
+# 🤖 AI Discipline Work
+**Recommend Movies**
 
 
 🎓 College: [College Methodist Granbery](http://granbery.edu.br/)
